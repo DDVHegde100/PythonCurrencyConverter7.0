@@ -16,7 +16,7 @@ elif(val=='JPY'):
     USD=float(input('Enter the amount in USD:'))
     JPY=USD*110.25
     print('%0.3f dollars is equal to %0.3f Japanese Yen' %(USD, JPY))
-elif(val=='JPY'):
+elif(val=='AUD'):
     USD=float(input('Enter the amount in USD:'))
     AUD=USD*1.36
     print('%0.3f dollars is equal to %0.3f Australian Dollars' %(USD, AUD))
